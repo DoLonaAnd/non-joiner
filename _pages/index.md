@@ -1,6 +1,6 @@
 ---
 title: "参加者ヅラ楽しすぎヒヤシンス"
-author: DoLonaAnd
+author: default
 permalink: /
 ---
 
