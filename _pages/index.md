@@ -23,9 +23,12 @@ permalink: /
 改行は、行末に半角スペースを2個いれる
 次の行
 
-[リンク](https://www.google.co.jp/)
+[リンクの代わりに表示したい文字列](https://www.google.co.jp/)
 
 **太字**
+__太字__
+*斜体*
+_斜体_
 
 > 引用
 >> 多重引用
@@ -34,16 +37,40 @@ permalink: /
 - 箇条書きリスト
   - ネスト
     - さらにネスト
+    - gnekrghreig
+
++ +でも実は出来る。
+  + hiurhgu3
+    + huriehg
 
 
 1. 番号付きリスト
    1. ネスト
+   2. wow!!
       1. さらにネスト
 
 
-| 列1  | 列2  |
-|:---:|-----|
-| 内容 fghrwgrrge | 内容  |
-| 内容  | 内容  |
 
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+| 列1  | 列2  |
+|:---:|---:|
+| 内容 fghrwgrrge | 内容  |
+| :---:で中央寄せ！  | ---:で右よせ！  |
+
+
+
+区切り線は---
+
+`テキストブロック`
+
+```
+コードブロック
+```
+
+```js
+/* ```の直後に言語名を付けるとシンタックスハイライト！ */
+console.log("hoge");
+```
+
+---
+
+![画像の説明](https://ja.gravatar.com/userimage/228303531/da8595de6834a9d8d26e92951e1881ea.jpg?size=200)

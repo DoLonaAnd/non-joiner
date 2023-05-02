@@ -1,7 +1,7 @@
 default:
   name: "DoLonaAnd"
   avatar: "https://ja.gravatar.com/userimage/228303531/da8595de6834a9d8d26e92951e1881ea.jpg?size=800"
-  bio: "KITHUBで行われた勉強会の参加者です。"
+  bio: "KITHUBで行われた勉強会の参加者じゃないです。"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
