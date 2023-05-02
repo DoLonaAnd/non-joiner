@@ -1,6 +1,6 @@
 ---
-title: "ここにページのタイトル"
-author: default
+title: "参加者ヅラ楽しすぎヒヤシンス"
+author: DoLonaAnd
 permalink: /
 ---
 
@@ -42,8 +42,8 @@ permalink: /
 
 
 | 列1  | 列2  |
-|-----|-----|
-| 内容  | 内容  |
+|:---:|-----|
+| 内容 fghrwgrrge | 内容  |
 | 内容  | 内容  |
 
 ![image](/GHPages_WebSite/assets/images/logo-150.png)
